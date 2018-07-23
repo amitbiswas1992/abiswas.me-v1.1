@@ -89,10 +89,10 @@
 <div class='lo-container'>
 <img src="<?php echo base_url('resource/image/30704253_1690007031065512_2115419960493735936_n.jpg'); ?>">
 <h1 style="color: #ffffff;">Amit Biswas</h1>
-<h2 style="color: #ffffff;">Social Entrepeneur & iOS Engineer</h2>
+<h2 style="color: #ffffff;">iOS Engineer & Social Entrepeneur  </h2>
 </div>
 </header>
-<?php                    
+<?php
 if(isset($_view) && $_view)
     $this->load->view($_view);
 ?>
