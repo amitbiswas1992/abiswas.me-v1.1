@@ -160,16 +160,16 @@ div.card:hover {
         <div class="modal-content" style="height: 500px; overflow-y: auto; overflow-x: hidden;">
             <div class="modal-header" style="padding: 30px 45px 30px 45px;">
     			<button style="float: right;" onclick="closeCp(3)" type="button" class="Box-btn-octicon btn-octicon position-absolute top-0 right-0 mr-1 mt-1 border-0" data-close-dialog><svg aria-label="Close" class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg></button>
-                <h4 class="modal-heading"><label>Md. Nasid Kamal Nirnoy</label></h4>
-                <h5><label>Software Engineer. Dhaka, Bangladesh.</label></h5>
+                <h4 class="modal-heading"><label>Abidur Rahman Mallik</label></h4>
+                <h5><label>Chief Technology Officer, MazeGeek.  Dhaka, Bangladesh.</label></h5>
             </div>
             <div class="row modal-body" style="padding: 30px 45px 30px 45px;">
                 <div class="box-body">
                 	<div class="col-md-4">
-                		<img style="border: 0.5px black;" src="<?php echo base_url('resource/image/user1.png'); ?>" width="200px" height="200px">
+                		<img style="border: 0.5px black;" src="<?php echo base_url('resource/image/abid.jpg'); ?>" width="200px" height="200px">
                 	</div>
                 	<div class="col-md-8">
-                		<p>"He's an exclusive combo of a great person, the best friend, a brother and a motivator to me who'll be always there to back me up."</p>
+                		<p>He's an exclusive combo of a great person, the best friend, a brother and a motivator to me who'll be always there to back me up.</p>
                 	</div>
                  </div>
             </div>
