@@ -14,5 +14,5 @@ class Resume extends CI_Controller {
 		$this->load->view('layout/main', $data);
 
 	}
-	
+
 }
